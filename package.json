@@ -1,0 +1,7 @@
+{
+  "name": "joiin api example",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
